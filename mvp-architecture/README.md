@@ -1,4 +1,4 @@
-# Minimal Viabable Project Architecture
+# Minimal Viable Project Architecture
 
 This section has notes on the minimal setup to have a working system that will monitor electricity usage on pedistals. From this we will build out more features.
 
