@@ -1,2 +1,5 @@
 # architecture-notes
-historical notes on all things around the architecture
+
+Notes for architecture. Keeping them in GIT so that we have a history of changes
+
+

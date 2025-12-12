@@ -1,0 +1,1 @@
+Folder to hold notes on important architectural decisions so that we don't forget why they were made.
