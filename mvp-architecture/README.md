@@ -24,6 +24,6 @@ Key
  4. Use Streetwise to process the events and do the alerting. Nick will have to setup Streetwise per pedistal which may not be the easiest way to do this but for MVP, it will get things going
  5. Streetwise as an SMS alerting service we can use.
  6. Graphana to view data for MVP. We may build better UI after MVP based on feedback
- 7. Pedistal IOT device will read voltage/current flowing through pedistal and send that number as a data at a regular frequence (configurable but expect to be every 10mins).
+ 7. Pedistal IOT device will read voltage/current flowing through pedistal and send that number as a data at a regular frequency (configurable but expect to be every 10mins).
 
  This gets the project up and running by leveraging AWS. Once running we can get feedback and refine.
